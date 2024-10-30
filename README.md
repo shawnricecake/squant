@@ -26,4 +26,6 @@ Follow the instructions of the [BabyLLaMA](https://github.com/timinar/BabyLlama)
 }
 ```
 
+## Acknowledgment
+Code is mainly based on [BabyLLaMA](https://github.com/timinar/BabyLlama) and [LSQ](https://github.com/zhutmost/lsq-net).
 
