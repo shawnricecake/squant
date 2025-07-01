@@ -1,6 +1,5 @@
-# EdgeQAT
-Official repo for the paper: [EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training
-for the Acceleration of Lightweight LLMs on the Edge](https://arxiv.org/abs/2402.10787v1)
+# Squant
+Official repo for the paper: [Squat: Quant Small Language Models on the Edge](https://arxiv.org/abs/2402.10787v1)
 
 
 ## Implementation
@@ -18,11 +17,11 @@ Follow the instructions of the [BabyLLaMA](https://github.com/timinar/BabyLlama)
 
 ## Citation
 ```
-@article{shen2024edgeqat,
-  title={EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge},
-  author={Shen, Xuan and Kong, Zhenglun and Yang, Changdi and Han, Zhaoyang and Lu, Lei and Dong, Peiyan and others},
+@article{shen2025squant,
+  title={Squat: Quant Small Language Models on the Edge},
+  author={Shen, Xuan and Peiyan, Dong and Kong, Zhenglun and Gong, Yifan and Yang, Changdi and Han, Zhaoyang and Xie, Yanyue and Lu, Lei and others},
   journal={arXiv preprint arXiv:2402.10787},
-  year={2024}
+  year={2025}
 }
 ```
 
