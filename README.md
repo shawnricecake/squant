@@ -1,5 +1,5 @@
 # Squant
-Official repo for the paper: [Squat: Quant Small Language Models on the Edge](https://arxiv.org/abs/2402.10787v1)
+Official repo for the paper: [Squat: Quant Small Language Models on the Edge](https://arxiv.org/abs/2402.10787)
 
 
 ## Implementation
